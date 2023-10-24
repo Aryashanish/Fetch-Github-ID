@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cart-main{
+    background-color: rgb(235, 235, 233);
+    margin-top: 2rem;
+    padding: 10px;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.list ul{
+    text-decoration: none;
+    list-style: none;
+}
